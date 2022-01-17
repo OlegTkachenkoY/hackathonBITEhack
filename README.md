@@ -11,7 +11,7 @@ Model of RNN built on english twitts dataset. It predicts wheter the email is so
 
 Model of RNN built on polish twitts dataset. It also predicts wheter the email is sorf of hate speech or not.
 
-## 
+## Polish_tweets
 Dataset of labeled, polish twitts made by ourselves. 
 
 
