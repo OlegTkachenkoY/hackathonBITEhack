@@ -11,8 +11,9 @@ Model of RNN built on english twitts dataset. It predicts wheter the email is so
 
 Model of RNN built on polish twitts dataset. It also predicts wheter the email is sorf of hate speech or not.
 
-## email_manager.py
-Program to automate sending emails -> future feature
+## 
+Dataset of labeled, polish twitts made by ourselves. 
 
-## Index
-basic site to show the results of our work (not completed)  -> future feature
+
+
+
