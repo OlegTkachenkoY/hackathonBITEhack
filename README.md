@@ -1,6 +1,7 @@
 # BITEhack
 Group: KN_Mentor
 Members: Rafał Nojek, Karol Augustyniak, Oleg Tkachenko, Bartłomiej Jamiołkowski
+
 Project composed of files that was made on BITEhack hackaton 15 Jan 2022.
 
 
